@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+
+
+
+
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </string>
+    <string name="job_name">Graphic Designer &amp; Programmer</string>
+    <string name="filme1">16 de dezembro de 2021 (Brasil)</string>
+    <string name="filme2">22 de dezembro de 2021 (Brasil)</string>
+    <string name="filme3">9 de dezembro de 2021 (Brasil)</string>
+    <string name="filme4">10 de dezembro de 2021 (EUA)</string>
+    <string name="NomeProjeto">Geek Blog</string>
+    <string name="NomeProjetoDesc">Um projeto de blog de notícias interativo desenvolvido no android studio, com as
+    principais notícias do mundo geek </string>
+    <string name="Superman">Superman</string>
+    <string name="charactersSupermanDesc">Superman ou Super-Homem
+        é um super-herói fictício de história em quadrinhos
+        americanas publicado pela DC Comics, uma empresa subsidiária
+        do grupo WarnerMedia. Superman, entretanto, já foi adaptado
+        para diversos outros meios desde os anos 1930, como cinema,
+        rádio, televisão, literatura e Video game. </string>
+
+    <string name="Noticia1">Tom Holland e Zendaya brilham no red carpet de "Homem-Aranha: No Way Home</string>
+    <string name="Noticia1_sub">O terceiro filme do Homem-Aranha de Tom Holland e Zendaya juntos estreia em 17 de dezembro</string>
+    <string name="Noticia1_Txt">  Tom Holland e Zendaya estão arrasando como um casal fashionista!
+        No domingo, as estrelas da Marvel, ambos com 25 anos, compareceram a um photocall em
+        Londres, no Reino Unido, para o pré-lançamento do filme "Homem-Aranha: No Way Home".
+        O par posou para fotógrafos, lançando olhares sérios momentos antes de compartilhar uma
+        risada logo depois.Para o evento no The Old Sessions House, Holland usou uma camisa listrada
+        com uma jaqueta de couro e calça preta, que ele combinou com sapatos pretos.
+        Zendaya, por sua vez, estava deslumbrante com um vestido blazer cinza adornado
+        com lantejoulas combinado com uma meia-calça também bordada no melhor estilo "teias de aranha luxuosas".
+        Ela completou seu visual com brincos de teia de aranha - um aceno para o próximo sucesso das bilheterias. Fonte:
+    vogue.globo.com</string>
+    <string name="Noticia2">O Resgate - O Dia da Redenção na Netflix: Conheça o filme de ação INSANO que está bombando no catálogo</string>
+    <string name="Noticia2_sub">O filme de ação que está bombando no catálogo do streaming conta com atores de CSI, Smallville e O Poderoso Chefão 3.</string>
+    <string name="Noticia2_Txt">Se você adora filmes de ação frenéticos, provavelmente deve ter ouvido falar de O Resgate
+        - O Dia da Redenção. A produção dirigida por Hicham Hajji — cineasta iniciante que atualmente está gravando dois
+        novos projetos: God is a DJ e The Lost Princess — acompanha Brad Paxton, um herói de guerra que está tentando
+        reconstruir sua vida pessoal após lidar com traumas do campo de batalha.Porém, durante uma viagem, sua
+        esposa acaba sendo sequestrada por terroristas. Isso faz com que Brad precise voltar à ativa, enfrentando
+        uma organização poderosa para salvar a mulher que ama, mesmo que isso o faça perder a própria vida.
+        Aliás, o longa também é uma ótima opção para quem procura obras de guerra bastante radicais.</string>
+    <string name="Noticia3">Leonardo DiCaprio vive cientista em Não Olhe para Cima e detona negacionismo: “Ciência se tornou politizada. Há muitos ‘fatos alternativos’”</string>
+    <string name="Noticia3_sub">Novo filme da Netflix, Não Olhe para Cima apresenta um elenco estelar, contando nomes como Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep e Jonah Hill.</string>
+    <string name="Noticia3_Txt">Um dos filmes mais aguardados de dezembro, Não Olhe para Cima é a grande aposta da
+        Netflix para este fim de ano. Com estreia marcada para amanhã (9) em alguns cinemas selecionados e 24
+        de dezembro na plataforma de streaming, a produção conta com algumas das maiores celebridades do mundo
+        do cinema, apresentando nomes como Meryl Streep, Leonardo DiCaprio, Jonah Hill, Jennifer Lawrence, Tyler
+        Perry e outros. Dirigido por Adam McKay, o longa traz às grandes e pequenas telas uma comédia ácida que
+        diz muito sobre os dias de hoje. </string>
+    <string name="diploma">Computer Science Diploma</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
